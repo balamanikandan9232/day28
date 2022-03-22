@@ -1,7 +1,6 @@
 .App {
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +35,18 @@
     transform: rotate(360deg);
   }
 }
+.Header{
+  text-align: center;
+  color: crimson;
+  background-color: #282c34;
+ }
+ .Data{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+  
+ }
+ .Card
+ {
+  margin-top: 5%;
+ }
