@@ -35,18 +35,16 @@
     transform: rotate(360deg);
   }
 }
-.Header{
+.Header {
   text-align: center;
-  color: crimson;
+  color: #e27d60;
   background-color: #282c34;
- }
- .Data{
+}
+.Data {
   display: flex;
   flex-wrap: wrap;
-  justify-content:space-between;
-  
- }
- .Card
- {
+  justify-content: space-between;
+}
+.Card {
   margin-top: 5%;
- }
+}
